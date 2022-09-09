@@ -12,3 +12,6 @@ simple to emphasize its simplicity.
 ![image](https://user-images.githubusercontent.com/56273616/189419332-ea4dfcfb-db60-4335-ab70-48d44036e03d.png)
 ![image](https://user-images.githubusercontent.com/56273616/189419365-a2c005c5-4530-4ec6-a91e-074bbf7ef422.png)
 ![image](https://user-images.githubusercontent.com/56273616/189419390-ed283a70-1c5d-46ba-8900-a02aa070d725.png)
+
+## Tests
+The file "tests" contains small programms written in Cimple for testing the compiler's results
